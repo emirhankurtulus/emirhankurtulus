@@ -1,9 +1,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
+</div>
 
-
-### <div align="center">I'm Emirhan, a full-time full-stack Developer 👨‍💻 working remotely since 2013 🚀</div>
+### <div align="center">I'm Emirhan, a full-time full-stack Developer 👨‍💻</div>
 
 - 🔭 I’m currently use .Net Core Api & Vue.js
 
@@ -67,8 +66,7 @@
 <a href="https://stackoverflow.com/users/21195207" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br/>
 
@@ -84,8 +82,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=emirhankurtulus&&style=flat-square" align="center" />
-</div>  
-
+</div>
 
 <br/>
 
