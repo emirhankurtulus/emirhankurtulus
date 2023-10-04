@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently use .Net Core Api & Vue.js
 
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Swift & React
 
 ### <div align="center"> To infinity and beyond</div>
 
